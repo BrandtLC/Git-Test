@@ -1,1 +1,1 @@
-"Repository used to study and test github features"
+Repository used to study and test github features
